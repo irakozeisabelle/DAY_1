@@ -1,0 +1,6 @@
+/* SmartPark PSSMS - Global Styles */
+@media print {
+  header, footer, nav, .print\:hidden {
+    display: none !important;
+  }
+}
